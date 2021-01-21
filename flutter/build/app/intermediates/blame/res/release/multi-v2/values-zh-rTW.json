@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shashi/Projects/Flutter Projects/alarm_test/flutter/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "/home/shashi/.gradle/caches/transforms-2/files-2.1/65fd00bb7753452a02d198555191de3e/core-1.3.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
