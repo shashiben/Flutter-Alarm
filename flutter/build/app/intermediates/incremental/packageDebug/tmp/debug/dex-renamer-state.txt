@@ -1,4 +1,0 @@
-#Thu Jan 21 14:14:22 IST 2021
-base.0=/home/shashi/Projects/Flutter Projects/alarm_test/flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
