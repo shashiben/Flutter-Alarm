@@ -1,0 +1,8 @@
+# Flutter-Alarm
+A flutter projects to set alarm in multidevices using nodejs and mongodb for backend
+
+# Screenshots
+|                                                                                                                          |                                                                                                                         |                                                                                                                        |                                                                                                                                                                                                                                      
+| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | 
+| ![Home Page](https://raw.githubusercontent.com/shashiben/Flutter-Alarm/master/screenshots/home.png)   | ![Add Alarm](https://raw.githubusercontent.com/shashiben/Flutter-Alarm/master/screenshots/add.png) | ![After Adding](https://raw.githubusercontent.com/shashiben/Flutter-Alarm/master/screenshots/addAfter.png) |
+| ![Loading](https://raw.githubusercontent.com/shashiben/Flutter-Alarm/master/screenshots/loading.png) | ![Picker](https://raw.githubusercontent.com/shashiben/Flutter-Alarm/master/screenshots/picker.png)  | ![Live Alarm](https://raw.githubusercontent.com/shashiben/Flutter-Alarm/master/screenshots/alarm.png) | 
